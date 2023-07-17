@@ -1,7 +1,7 @@
 <h1 align="center"> Carrinhos de compras com o React JS</h1>
 
 <p align="center">
-Projeto recriado através do canal Manual do Dev, para maior entendimento do HTML,CSS,js e React. 
+Projeto recriado através do canal Manual do Dev, para maior entendimento do HTML,CSS e React JS. 
 </p>
 
 <p align="center">
